@@ -1,5 +1,6 @@
 # os222
 This is my Github Page for Operating Systems 2022-1. よろしくお願いします!! ^^ 
+<br><br>
 [GitHub Page](https://jamessmith404.github.io/os222/) -~-
 [TARBALL](SandBox/jamessmith404.tar.xz) -~-
 [myLOG](TXT/mylog.txt) -~-
