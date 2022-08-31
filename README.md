@@ -6,5 +6,5 @@ This is my Github Page for Operating Systems 2022-1. よろしくお願いしま
 [myLOG](TXT/mylog.txt) -~-
 [GitHub](https://github.com/jamessmith404/os222/)
 <br><br>
-<span style="color:green; font-weight:bold; font-size:larger;"><i>Semoga GG gak NT<i></span>
+<span style="color:green; font-weight:bold; font-size:larger;"><i>Semoga GG gak NT<i>
 <hr>
