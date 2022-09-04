@@ -5,6 +5,7 @@ ZCZC W00 20 L01 SCELE related
 ZCZC W00 100 L02 Sync class related
 ZCZC W00 30 L03 GitHub and git related
 ZCZC W00 20 L04 GitHub Pages related
+ZCZC W00 10 L05 Quiz related including studying
 ZCZC W00 20 L06 Browsing and GSGS related
-ZCZC W00 45 L10 Assignment #00
+ZCZC W00 135 L10 Assignment #00
 ZCZC W00 15 L30 Udacity: study
