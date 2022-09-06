@@ -10,3 +10,4 @@ ZCZC W00 60 L06 Browsing, Books, References, and GSGS related
 ZCZC W00 45 L08 OS Chat related (LINE, IRL discussion) with Friend
 ZCZC W00 200 L10 Assignment #00
 ZCZC W00 30 L30 Udacity: study
+ZCZC W00 100 L02 Zoom class related
