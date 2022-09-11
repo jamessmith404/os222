@@ -1,17 +1,10 @@
 ---
-permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By James Smith</span>
-<br><br>
-[HOME](.) ---
-[LINKS](https://jamessmith404.github.io/os222/LINKS/) ---
-[LOG](TXT/mylog.txt) ---
-[GITHUB]({{ https://github.com/jamessmith404/os222/ }})
-<br>
+[HOME](https://github.com/jamessmith404/os222/blob/master/index.md) / [LINKS](https://jamessmith404.github.io/os222/LINKS) / [GitHub](https://github.com/jamessmith404/os222) / [LOG](https://github.com/jamessmith404/os222/blob/master/TXT/mylog.txt) / [TIPS:tba]( ) / [TARBALL:tba]( )
+
+# My OS22 Webpage
+
+Construction on process, so relax, drink some water, and watch the great things unveiled.. 
+
 <hr>
-
-# LINKS
-
-
-1. [Operating Systems: Visual Metaphor (Udacity)](https://www.youtube.com/playlist?list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO)<br>
-If you're having a hard time to grasp "What is Operating Systems?", this YouTube playlist really helps. This presenter explains and illustrates this concept into a fun and fascinating way in a short of time. The visualisation looks so simple, makes us easier to understand the concept.
+© {{ site.copyright}} --- James Smith Wigglesworth --- Version: 1.0.
