@@ -4,7 +4,7 @@
 
 # My OS22 Webpage
 
-Construction on process, so relax, drink some water, and watch the great things unveiled.. 
+Construction on process, so relax, drink some water, and watch the great things unveiled. ^ ^
 
 <hr>
-© {{ site.copyright}} --- James Smith Wigglesworth --- Version: 1.0.
+© {{ site.copyright }} --- James Smith Wigglesworth --- Version: 1.0.

@@ -21,6 +21,6 @@ If you're having a hard time to grasp "What is Operating Systems?", this YouTube
 
 <br>
 <hr>
-{{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
+{{ site.copyright }} --- James Smith Wigglesworth --- Version: 1.0.
 <hr>
 <br>
