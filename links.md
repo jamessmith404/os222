@@ -3,10 +3,12 @@ permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By James Smith</span>
 <br><br>
-[HOME](.) ---
-[LINKS](https://jamessmith404.github.io/os222/LINKS/) ---
-[LOG](TXT/mylog.txt) ---
-[GITHUB]({{ https://github.com/jamessmith404/os222/ }})
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL](SandBox/jamessmith404.tar.xz) ---
+[GITHUB]({{ site.githublink }})
 <br>
 <hr>
 
