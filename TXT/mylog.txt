@@ -16,4 +16,4 @@ ZCZC W01 15 L03 GitHub and git related
 ZCZC W01 60 L05 Quiz related including studying
 ZCZC W01 20 L08 OS Chat related (LINE, IRL discussion) with Friend
 ZCZC W01 420 L11 Assignment #01
-ZCZC W02 100 L12 Assignment #02
+ZCZC W02 175 L12 Assignment #02
