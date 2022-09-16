@@ -21,6 +21,7 @@ If you're having a hard time to grasp "What is Operating Systems?", this YouTube
 # WEEK 02
 1. [C Language Tutorial](https://www.w3schools.com/c/index.php)
 This is one of the best C language learning portal that exists on the Internet. The material is quite complete and it has sample program and the output. Really helped me when learning C.
+
 <span style="color:green; font-weight:bold; font-size:larger;"><i>Semoga GG gak NT<i>
 
 <br>
