@@ -2,7 +2,7 @@
 This is my Github Page for Operating Systems 2022-2. Nice to meet you guys! ^^ 
 <br><br>
 [GitHub Page](https://jamessmith404.github.io/os222/) -~-
-[TARBALL](Log/jamessmith404.tar.bz2.txt) -~-
+[TARBALL](https://os.vlsm.org/Log/jamessmith404.tar.bz2.txt) -~-
 [myLOG](TXT/mylog.txt) -~-
 [GitHub](https://github.com/jamessmith404/os222/)
 <br><br>
