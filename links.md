@@ -7,7 +7,7 @@ permalink: LINKS/
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/jamessmith404.tar.xz) ---
+[TARBALL](https://os.vlsm.org/Log/jamessmith404.tar.bz2.txt) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
