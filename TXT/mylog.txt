@@ -31,9 +31,18 @@ ZCZC W03 15 L01 SCELE related
 ZCZC W03 200 L02 ZOOM class (Sept 20 & 22) related
 ZCZC W03 40 L04 GitHub Pages related
 ZCZC W03 48 L05 Quiz related including studying
-ZCZC W03 210 L11 Assignment #03
+ZCZC W03 210 L13 Assignment #03
 ZCZC W03 40 L08 OS Chat related (LINE, IRL discussion) with Friend
 ZCZC W03 10 L25 C-language including Make
 ZCZC W03 20 L26 GnuPG, key-gen, encrypt/decrypt
 ZCZC W03 25 L40 TXT/ related in general
 ZCZC W03 10 L64 Helping a friend (OS related problem)
+ZCZC W04 50 L01 SCELE/Discord related
+ZCZC W04 214 L02 ZOOM class (Sept 27 & 29) related
+ZCZC W04 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 48 L05 Quiz related including studying
+ZCZC W04 30 L06 Browsing, Books, References, and GSGS related
+ZCZC W04 30 L08 OS Chat related (LINE) with Friend
+ZCZC W04 200 L14 Assignment #04
+ZCZC W04 20 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W04 15 L40 TXT/ related in general
