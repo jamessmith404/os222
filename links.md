@@ -43,6 +43,10 @@ The all-in-one learning page for memory management in OS. Sums up materials rega
 3. 🗺️ [Mapping from Page Table to Memory](https://www.javatpoint.com/os-mapping-from-page-table-to-main-memory)<br>
 Explains the steps of mapping from logical to physical address in OS, such as generalisation of logical and physical address, scaling, and getting actual frame number. 
 
+## WEEK 05
+1. 🔗 [How OS Handling Page Fault](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)<br>
+This page pretty much has simplified about how OS handling page fault in demand paging due to limited memory available from the start until the program execution continues.
+
 <span style="color:green; font-weight:bold; font-size:larger;"><i>Semoga GG gak NT<i>
 <br>
 <hr>
