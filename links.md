@@ -47,6 +47,10 @@ Explains the steps of mapping from logical to physical address in OS, such as ge
 1. 🔗 [How OS Handling Page Fault](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)<br>
 This page pretty much has simplified about how OS handling page fault in demand paging due to limited memory available from the start until the program execution continues.
 
+## WEEK 06
+1. 🗂️  [Multicore Programming](https://www.tutorialspoint.com/what-is-multicore-programming)<br>
+Concise article about how multicore programming works, plus and the minus of it.
+
 <span style="color:green; font-weight:bold; font-size:larger;"><i>Semoga GG gak NT<i>
 <br>
 <hr>

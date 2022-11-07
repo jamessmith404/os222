@@ -60,3 +60,10 @@ ZCZC W05  15 L25 C-language including Make
 ZCZC W05  10 L26 GnuPG, key-gen, encrypt/decrypt
 ZCZC W05  15 L40 TXT/ related in general
 ZCZC W05  10 L64 Helping a friend (OS related problem)
+ZCZC W06 200 L02 Sync class (Nov 1 & 3) related
+ZCZC W06  10 L03 GitHub and git related, including commit, push, pull
+ZCZC W06  60 L05 Quiz related including studying
+ZCZC W06  30 L06 Browsing, Slides, and GSGS related
+ZCZC W06  50 L08 OS Chat related (LINE, IRL discussion) with Friend
+ZCZC W06  90 L16 Assignment #06
+ZCZC W06  10 L25 C-language including Make
