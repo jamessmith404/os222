@@ -51,6 +51,10 @@ This page pretty much has simplified about how OS handling page fault in demand 
 1. 🗂️  [Multicore Programming](https://www.tutorialspoint.com/what-is-multicore-programming)<br>
 Concise article about how multicore programming works, plus and the minus of it.
 
+## WEEK 07
+1. 🔐 [Process Sync & Deadlocks](http://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
+A simple yet packed information regarding how process synchronisation works and deadlocks. Also explains common term about deadlock condition.
+
 <span style="color:green; font-weight:bold; font-size:larger;"><i>Semoga GG gak NT<i>
 <br>
 <hr>

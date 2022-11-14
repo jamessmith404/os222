@@ -67,3 +67,13 @@ ZCZC W06  30 L06 Browsing, Slides, and GSGS related
 ZCZC W06  50 L08 OS Chat related (LINE, IRL discussion) with Friend
 ZCZC W06  90 L16 Assignment #06
 ZCZC W06  10 L25 C-language including Make
+ZCZC W07 200 L02 Sync class (Nov 8 & 10) related
+ZCZC W07  10 L03 GitHub and git related, including commit, push, pull
+ZCZC W07  10 L04 GitHub Pages related
+ZCZC W07  60 L05 Quiz related including studying
+ZCZC W07  30 L06 Browsing, Slides, and GSGS related
+ZCZC W07  45 L08 OS Chat related (LINE, IRL discussion) with Friend
+ZCZC W07 100 L17 Assignment #07
+ZCZC W07  10 L25 C-language including Make
+ZCZC W07  20 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W07  15 L64 Helping a friend (OS related problem)
