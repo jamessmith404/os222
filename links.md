@@ -55,6 +55,14 @@ Concise article about how multicore programming works, plus and the minus of it.
 1. 🔐 [Process Sync & Deadlocks](http://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
 A simple yet packed information regarding how process synchronisation works and deadlocks. Also explains common term about deadlock condition.
 
+## WEEK 08
+1. 🎞️ [Final Prep for LFS 11.2](https://www.youtube.com/watch?v=PkMA_2NmF8c&t=449s)<br>
+This video got my back when I'm want to export MAKEFLAGS in .bashrc
+2. 📅[CPU Scheduling](https://www.javatpoint.com/os-cpu-scheduling)<br>
+This links had a plenty info regarding scheduling. Had a illustration about PCB
+3. 🧩 [Explain your Shell script](https://explainshell.com/)<br>
+Do you want to know what is your script doing? Copy+paste and behold the wonders!
+
 <span style="color:green; font-weight:bold; font-size:larger;"><i>Semoga GG gak NT<i>
 <br>
 <hr>
